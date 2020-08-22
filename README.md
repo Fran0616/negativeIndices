@@ -1,2 +1,2 @@
-# negatoveIndices
+# negativeIndices
 Negative indices are legal 
